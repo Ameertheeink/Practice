@@ -1,0 +1,3 @@
+delete from todo.tasks t where description="";
+
+ALTER TABLE todo.tasks AUTO_INCREMENT = 1;
